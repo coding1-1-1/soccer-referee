@@ -8,6 +8,7 @@
 |---|---|---|
 | 实验一：踢球裁决器 | [`lab1-soccer-referee/`](lab1-soccer-referee/) | 拨码开关输入、LED 输出裁决结果 |
 | 实验二：七段数码管显示 | [`lab2-sevenseg-display/`](lab2-sevenseg-display/) | 4 位固定显示 `2026` 与 8 位动态扫描 |
+| 实验三：ALU 运算器 | [`lab3-alu/`](lab3-alu/) | 4 位 ALU（算术/逻辑运算）+ 数码管显示 |
 
 每个 `labX` 目录下是独立的 Vivado 工程，用 Vivado 打开对应的 `.xpr` 文件即可。
 
