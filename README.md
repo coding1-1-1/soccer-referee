@@ -8,7 +8,6 @@
 - `soccer.srcs/sources_1/new/ball.sv` — 主模块源码
 - `soccer.srcs/constrs_1/new/cons.xdc` — 引脚约束（Nexys4 DDR）
 - `soccer.srcs/sim_1/new/ball_sim.sv` — 仿真测试平台
-- `实验报告-踢球裁决器.pdf` — 实验报告
 
 ## 使用方式
 
