@@ -1,0 +1,18 @@
+# Vivado 自动生成文件（无需上传，重新生成即可）
+.Xil/
+*.cache/
+*.hw/
+*.ip_user_files/
+*.runs/
+*.sim/
+*.jou
+*.log
+*.backup.*
+*.pb
+*.dcp
+*.bit
+*.wdb
+*.vdi
+*.vds
+xsim.dir/
+obj/
